@@ -11,12 +11,9 @@
   <a href="https://space.bilibili.com/1258864372"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=D3LingCN" /></div>
-# 😍 Hello
-
+😍 Hello
 欢迎访问我的主页 😝，github 是一个非常有魅力的地方 😊，有很多厉害的开发者在其分享经验开源代码
-
 本人是一名大学生还在不断强化自己，咕咕 ✋~
-
 写博客记学习笔记真的是一个很棒的习惯 💪，将从别人那学习的东西转变成为自己的，了解为什么要这么做，为什么不这么做，每一次都是一次成长⚡
 既然作为一名程序员，一定要爱惜自己的生命，以后苦逼的生活还很漫长😫
 🦖一定记住不要熬夜 ~~如果我没睡那便是又熬夜了~~~，老是熬夜会长痘~~😢
