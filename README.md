@@ -4,21 +4,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=遇事不决，可问春风.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
+
+<h1>😍 Hello</h1>
+&emsp;&emsp;欢迎访问我的主页 😝，github 是一个非常有魅力的地方 😊，有很多厉害的开发者在其分享经验开源代码
+
+&emsp;&emsp;本人是一名大学生还在不断强化自己，咕咕 ✋~
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://d3lingcn.gitee.io/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://blog.csdn.net/qq_39597592"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/1258864372"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<h1>😍 Hello</h1>
-欢迎访问我的主页 😝，github 是一个非常有魅力的地方 😊，有很多厉害的开发者在其分享经验开源代码
-本人是一名大学生还在不断强化自己，咕咕 ✋~
-  <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=D3LingCN" /></div>
-写博客记学习笔记真的是一个很棒的习惯 💪，将从别人那学习的东西转变成为自己的，了解为什么要这么做，为什么不这么做，每一次都是一次成长⚡
-既然作为一名程序员，一定要爱惜自己的生命，以后苦逼的生活还很漫长😫
+</div>
+  
+  &emsp;&emsp;写博客记学习笔记真的是一个很棒的习惯 💪，将从别人那学习的东西转变成为自己的，了解为什么要这么做，为什么不这么做，每一次都是一次成长⚡
+  
+&emsp;&emsp;既然作为一名程序员，一定要爱惜自己的生命，以后苦逼的生活还很漫长😫
+
 🦖一定记住不要熬夜 ~~如果我没睡那便是又熬夜了~~~，老是熬夜会长痘~~😢
 
-💪 正在学习:
+ 💪 正在学习:
 
 &emsp;&emsp;
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
