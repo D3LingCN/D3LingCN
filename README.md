@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://d3lingcn.gitee.io/">
+  <a href="https://d3ling.cn/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=遇事不决，可问春风.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
@@ -11,7 +11,7 @@
 &emsp;&emsp;本人是一名大学生还在不断强化自己，咕咕 ✋~
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://d3lingcn.gitee.io/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://d3ling.cn/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://blog.csdn.net/qq_39597592"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/1258864372"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 </div>
