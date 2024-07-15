@@ -38,7 +38,7 @@
 🧠 计划学习:
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
