@@ -52,7 +52,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 <h1>Awards</h1>
 1.2024 蓝桥杯JavaB组省赛 (河北) 🥇
-2.2024 蓝桥杯JavaB组国赛 (河北) 🥉
+2.2024 蓝桥杯JavaB组全国总决赛  🥉
 3.2024 CCPC省赛 (河北) 优秀
 
 
