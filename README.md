@@ -20,7 +20,7 @@
   
 &emsp;&emsp;既然作为一名程序员，一定要爱惜自己的生命，以后苦逼的生活还很漫长😫
 
-🦖一定记住不要熬夜 ~~如果我没睡那便是又熬夜了~~~，老是熬夜会长痘~~😢
+🦖ACM 中 acm ing~~~~~~~ coding~~~😢
 
  💪 正在学习:
 
@@ -30,16 +30,15 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![c++](https://img.shields.io/badge/-C++-FCC624?style=flat-square&logo=c++)
 
 🧰 常用的工具:
 
