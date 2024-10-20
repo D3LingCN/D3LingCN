@@ -50,3 +50,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+<h1>Awards</h1>
+1.2024 蓝桥杯JavaB组省赛 (河北) 🥇
+2.2024 蓝桥杯JavaB组国赛 (河北) 🥉
+3.2024 CCPC省赛 (河北) 优秀
+
+
