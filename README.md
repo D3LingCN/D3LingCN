@@ -22,7 +22,7 @@
 
 🦖ACM 中 acm ing~~~~~~~ coding~~~😢
 
- 💪 正在学习:
+ 💪 技术栈:
 
 &emsp;&emsp;
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
